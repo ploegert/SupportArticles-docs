@@ -44,3 +44,4 @@ To resolve this issue, grant the delegate write access to the manager's **Delete
 ## More information
 
 The email that was permanently deleted from the manager's mailbox can be recovered from **Recover Deleted Items**, which can be accessed using OWA or Windows Outlook.
+delete permanently
